@@ -11,7 +11,7 @@
 
 <a id="setup-repo"></a>
 ### Setup local repo
-Let's setup the backend server on your local machine.
+<!--Let's setup the backend server on your local machine.-->
 
 ### 0. Prerequisites
 * VS Code
